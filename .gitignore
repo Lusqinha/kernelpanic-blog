@@ -37,3 +37,5 @@
 !/app/assets/builds/.keep
 
 2
+
+.bundler/
